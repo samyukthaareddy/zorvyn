@@ -1,0 +1,9 @@
+*.pyc
+__pycache__/
+*.pyo
+.env
+venv/
+env/
+finance.db
+*.sqlite3
+.DS_Store
