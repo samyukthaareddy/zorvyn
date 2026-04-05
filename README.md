@@ -68,6 +68,10 @@ python manage.py runserver
 
 The API will be available at `http://127.0.0.1:8000/api/`
 
+Swagger UI docs: `http://127.0.0.1:8000/api/docs/`
+
+ReDoc docs: `http://127.0.0.1:8000/api/redoc/`
+
 ---
 
 ## Seed Accounts
